@@ -1,6 +1,6 @@
 import pytest
 
-from 3R-practice-demo.3R-practice-demo import hello_world
+from practice_demo.practice_demo import hello_world
 
 
 @pytest.mark.parametrize(
